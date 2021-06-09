@@ -2,4 +2,5 @@
 
 ### Projects:
 
-1)  CNN_Fashion_Image
+1) CNN_Fashion_Image
+2) CNN_From_Scratch_Tenserflow
