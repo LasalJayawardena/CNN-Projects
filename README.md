@@ -1,4 +1,4 @@
-# Projects which use Recurrent Neural Networks
+# Projects which use Covolutional Neural Networks
 
 ### Projects:
 
