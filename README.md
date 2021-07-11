@@ -9,3 +9,4 @@
 5) Image_Colorization
 6) Audio_Classification
 7) Facial_Key_points_Detection
+8) OCR_Recognition
