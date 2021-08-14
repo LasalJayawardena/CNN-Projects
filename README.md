@@ -10,3 +10,4 @@
 6) Audio_Classification
 7) Facial_Key_points_Detection
 8) OCR_Recognition
+9) Traffic_sign_recoginition
