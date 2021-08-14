@@ -1,1 +1,1 @@
-German Traffic Sign Recognition Dataset (GTSRB) is an image classification dataset
+German Traffic Sign Recognition Dataset (GTSRB) was the dataset used in the project.
