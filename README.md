@@ -1,5 +1,7 @@
 # Projects which use Covolutional Neural Networks
 
+## Technologies:
+
 ### Projects:
 
 1) CNN_Fashion_Image
