@@ -2,6 +2,9 @@
 
 ## Technologies:
 
+<div>
+</div>
+
 ### Projects:
 
 1) CNN_Fashion_Image
