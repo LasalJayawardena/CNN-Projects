@@ -25,3 +25,4 @@
 15) AI_Attendence_Marker
 16) AI_Curl_Trainer
 17) Angle_Finder
+18) Annotating_Images_with_Object_Detection_API
