@@ -32,3 +32,4 @@
 17) Angle_Finder
 18) Annotating_Images_with_Object_Detection_API
 19) Bar_and_QR_Code_Detection
+20) Document_Scanner
