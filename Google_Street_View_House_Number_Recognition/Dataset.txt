@@ -1,1 +1,1 @@
-Dataset - SVHN
+Dataset - SVHN 	The Street View House Numbers (SVHN) Dataset
