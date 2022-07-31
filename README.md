@@ -14,7 +14,6 @@
 </div>
 
 ## Projects:
-12) Real_Time_Color_Tracker
 13) Object_Detection_with_HaarCascade
 14) Hand_Tracking_Volume_Adjuster
 15) AI_Attendence_Marker
