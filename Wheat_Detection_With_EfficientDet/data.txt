@@ -2,3 +2,4 @@ https://www.kaggle.com/competitions/global-wheat-detection
 https://www.kaggle.com/datasets/mathurinache/efficientdet
 https://www.kaggle.com/datasets/shonenkov/omegaconf
 https://www.kaggle.com/datasets/kaushal2896/pycocotools
+https://www.kaggle.com/datasets/greatgamedota/timm-package
