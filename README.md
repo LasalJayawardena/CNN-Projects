@@ -14,7 +14,6 @@
 </div>
 
 ## Projects:
-14) Hand_Tracking_Volume_Adjuster
 15) AI_Attendence_Marker
 16) AI_Curl_Trainer
 17) Angle_Finder
