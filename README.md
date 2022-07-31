@@ -43,7 +43,7 @@
 |  0007 | <a href="/Facial_Key_points_Detection/">Facial Key Points Detection</a>| Building a system to identify key facial landmarks.|
 |  0008 | <a href="/OCR_Recognition/">OCR Recognition</a>| Optical Character Recognition using Pytorch|
 |  0009 | <a href="/Scene_Classification/">Scene Classification</a>| System built where scenes from photographs are categorically classified.|
-|  0010 | <a href="/Scene_Classification/">Scene Classification</a>| System built where scenes from photographs are categorically classified.|
+|  0010 | <a href="/Traffic_sign_recoginition/">Traffic Sign Recoginition</a>| Traffic Sign Recognition.|
 
 
 
