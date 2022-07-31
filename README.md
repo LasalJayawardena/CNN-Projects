@@ -42,8 +42,9 @@
 
 | ID | Project | Description |
 | :---: | :---: | :---: |
-|  001 | <a href="/CNN_Fashion_Image/">CNN Fashion Image</a>| Building a CNN Model for the Fashion-MNIST Dataset.|
-|  002 | <a href="/CNN_From_Scratch_Tenserflow">CNN From Scratch Tenserflow</a>| Building a Simple CNN Model in Tensorflow (First time experimenting CNNs in Tensorflow).|
+|  001 | <a href="/CNN_From_Scratch_Tenserflow">CNN From Scratch Tenserflow</a>| Building a Simple CNN Model in Tensorflow (First time experimenting CNNs in Tensorflow).|
+|  002 | <a href="/CNN_Fashion_Image/">CNN Fashion Image</a>| Building a CNN Model for the Fashion-MNIST Dataset.|
+
 
 
 
