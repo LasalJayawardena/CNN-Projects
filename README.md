@@ -41,6 +41,7 @@
 |  0010 | <a href="/Traffic_sign_recoginition/">Traffic Sign Recoginition</a>| Traffic Sign Recognition.|
 |  0011 | <a href="/Real_Time_Shape_Contour_Detection/">Real Time Shape Contour Detection</a>| Detect contours of shapes from a live video feed.|
 |  0012 | <a href="/Real_Time_Color_Tracker/">Real Time Color Tracker</a>| Detect and Track color from the HSV scale from a live video feed.|
+|  0013 | <a href="/Object_Detection_with_HaarCascade/">Object Detection with HaarCascade</a>| Detecting Faces with the HaarCascade Filter.|
 
 
 
