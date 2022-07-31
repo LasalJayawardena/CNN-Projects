@@ -14,8 +14,6 @@
 </div>
 
 ## Projects:
-
-11) Real_Time_Shape_Contour_Detection
 12) Real_Time_Color_Tracker
 13) Object_Detection_with_HaarCascade
 14) Hand_Tracking_Volume_Adjuster
