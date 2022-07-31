@@ -44,6 +44,7 @@
 |  0025 | <a href="/Object_Dimension_Measurer/">Object Dimension Measurer</a>| Measure Object Dimensions from a live feed.|
 |  0026 | <a href="/Optical_Mark_Recognizer/">Optical Mark Recognizer</a>| Optical Mark Recognizer(OMR) from a live feed.|
 |  0027 | <a href="/Text_Detector_Tesseract/">Text Detector Tesseract</a>| Text Detector built using Google's Tesseract Engine.|
+|  0028 | <a href="/Toxic_Comments_Classification_with_1D_Conv/">Toxic Comments Classification </a>| Toxic Comment Classification with 1D Convolutions.|
 
 
 
