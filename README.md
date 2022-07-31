@@ -42,4 +42,4 @@
 
 | ID | Project | Description |
 | :---: | :---: | :---: |
-|  001 | <a href="/CNN_Fashion_Image/">CNN Fashion Image</a>| Building a CNN Model for the Fashion-MNIST dataset|
+|  001 | <a href="/CNN_Fashion_Image/">CNN Fashion Image</a>| Building a CNN Model for the Fashion-MNIST Dataset.|
