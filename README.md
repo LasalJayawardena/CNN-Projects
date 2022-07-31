@@ -1,4 +1,4 @@
-# Projects which use Covolutional Neural Networks
+# Computer Vision Projects
 
 ## Technologies
 
