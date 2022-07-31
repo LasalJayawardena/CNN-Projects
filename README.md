@@ -40,6 +40,7 @@
 |  0019 | <a href="/Bar_and_QR_Code_Detection/">Bar and QR Code Detection</a>| Detecting Bar Codes and QR Codes from a live video feed and image.|
 |  0020 | <a href="/Document_Scanner/">Document Scanner</a>| Document Scanner from a live feed.|
 |  0021 | <a href="/Flickr8_Image_Caption_Generation/">Flickr8 Image Caption Generation</a>| Image Captioner built using Flickr 8k Dataset.|
+|  0022 | <a href="/Space Radio Signals Classification/">Space Radio Signals Classification</a>| Space Radio Classification on SETI Data.|
 
 
 
