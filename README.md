@@ -43,6 +43,7 @@
 |  0024 | <a href="/Google_Street_View_House_Number_Recognition/">Google Street View House Number Recognition</a>| House Number Recogition on the The Street View House Numbers (SVHN) Dataset.|
 |  0025 | <a href="/Object_Dimension_Measurer/">Object Dimension Measurer</a>| Measure Object Dimensions from a live feed.|
 |  0026 | <a href="/Optical_Mark_Recognizer/">Optical Mark Recognizer</a>| Optical Mark Recognizer(OMR) from a live feed.|
+|  0027 | <a href="/Text_Detector_Tesseract/">Text Detector Tesseract</a>| Text Detector built using Google's Tesseract Engine.|
 
 
 
