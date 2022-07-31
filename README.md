@@ -14,7 +14,6 @@
 </div>
 
 ## Projects
-22) Flickr8_Image_Caption_Generation
 23) Space_Radio_Signals_Classification
 
 
