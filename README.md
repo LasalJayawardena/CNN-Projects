@@ -42,6 +42,7 @@
 |  0004 | <a href="/Facial_Expression_Recognition/">Facial Expression Recognition</a>| Facial Expression Recognition on the FER Dataset.|
 |  0005 | <a href="/Image_Colorization/">Image Colorization</a>| Image Colorization from black and white photos to colored photos.|
 |  0006 | <a href="/Audio_Classification/">Audio Classification</a>| Classfying with the Gtzan Dataset.|
+|  0007 | <a href="/Facial_Key_points_Detection/">Facial Key Points Detection</a>| Building a system to identify key facial landmarks.|
 
 
 
