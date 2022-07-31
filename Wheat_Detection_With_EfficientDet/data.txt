@@ -1,5 +1,9 @@
+Import the Below Sources in your Kaggle Environment or Local Setup before running the notebook
+==========================================================================================
+
 https://www.kaggle.com/competitions/global-wheat-detection
 https://www.kaggle.com/datasets/mathurinache/efficientdet
 https://www.kaggle.com/datasets/shonenkov/omegaconf
 https://www.kaggle.com/datasets/kaushal2896/pycocotools
 https://www.kaggle.com/datasets/greatgamedota/timm-package
+https://www.kaggle.com/datasets/shonenkov/timm-efficientdet-pytorch
