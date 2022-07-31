@@ -41,6 +41,7 @@
 |  0014 | <a href="/Hand_Tracking_Volume_Adjuster/">Hand Tracking Volume Adjuster</a>| Program that allows to adjust the speaker volume of your Laptop or Desktop using your hand movement.|
 |  0015 | <a href="/AI_Attendence_Marker/">AI Attendence Marker</a>| Attendance marking system with a live feed.|
 |  0016 | <a href="/AI_Curl_Trainer/">AI Curl Trainer</a>| Curl Trainer built using a pose detector.|
+|  0017 | <a href="/Angle_Finder/">Angle Finder</a>| Angle Finder from a live feed.|
 
 
 
