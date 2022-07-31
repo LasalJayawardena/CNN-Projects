@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 </div>
 
-## Projects:
+## Projects
 18) Annotating_Images_with_Object_Detection_API
 19) Bar_and_QR_Code_Detection
 20) Document_Scanner
