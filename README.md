@@ -40,6 +40,7 @@
 |  0021 | <a href="/Flickr8_Image_Caption_Generation/">Flickr8 Image Caption Generation</a>| Image Captioner built using Flickr 8k Dataset.|
 |  0022 | <a href="/Space Radio Signals Classification/">Space Radio Signals Classification</a>| Space Radio Classification on SETI Data.|
 |  0023 | <a href="/Cell_Instance_Segmentation/">Cell Instance Segmentation</a>| Instance Segmentation on the Sartorius Cell Instance Segmentation Dataset.|
+|  0024 | <a href="/Google_Street_View_House_Number_Recognition/">Google Street View House Number Recognition</a>| House Number Recogition on the The Street View House Numbers (SVHN) Dataset.|
 
 
 
