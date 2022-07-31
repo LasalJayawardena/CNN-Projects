@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 </div>
 
-### Projects:
+## Projects:
 
 1) CNN_Fashion_Image
 2) CNN_From_Scratch_Tenserflow
