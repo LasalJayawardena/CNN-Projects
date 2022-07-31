@@ -45,6 +45,7 @@
 |  0026 | <a href="/Optical_Mark_Recognizer/">Optical Mark Recognizer</a>| Optical Mark Recognizer(OMR) from a live feed.|
 |  0027 | <a href="/Text_Detector_Tesseract/">Text Detector Tesseract</a>| Text Detector built using Google's Tesseract Engine.|
 |  0028 | <a href="/Toxic_Comments_Classification_with_1D_Conv/">Toxic Comments Classification </a>| Toxic Comment Classification with 1D Convolutions.|
+|  0029 | <a href="/Virtual_Keyboard/"><a> Virtual Keyboard </a>| Virtual Keyboard that can be used with a live stream.|
 
 
 
