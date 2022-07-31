@@ -1,1 +1,2 @@
 https://www.kaggle.com/competitions/global-wheat-detection
+https://www.kaggle.com/datasets/mathurinache/efficientdet
