@@ -14,8 +14,6 @@
 </div>
 
 ## Projects
-23) Space_Radio_Signals_Classification
-
 
 | ID | Project | Description |
 | :---: | :---: | :---: |
