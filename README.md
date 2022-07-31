@@ -15,7 +15,7 @@
 
 ## Projects:
 
-8) OCR_Recognition
+
 9) Scene_Classification
 10) Traffic_sign_recoginition
 11) Real_Time_Shape_Contour_Detection
