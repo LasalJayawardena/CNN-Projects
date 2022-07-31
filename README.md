@@ -40,6 +40,7 @@
 |  0018 | <a href="/Annotating_Images_with_Object_Detection_API/"> Annotating Images with Object Detection API</a>| Annotating Images and Videos using multiple Object Detection models like SSDs, RCNNs, RFCNNs .|
 |  0019 | <a href="/Bar_and_QR_Code_Detection/">Bar and QR Code Detection</a>| Detecting Bar Codes and QR Codes from a live video feed and image.|
 |  0020 | <a href="/Document_Scanner/">Document Scanner</a>| Document Scanner from a live feed.|
+|  0021 | <a href="/Flickr8_Image_Caption_Generation/">Flickr8 Image Caption Generation</a>| Image Captioner builtusing Flickr 8k Dataset.|
 
 
 
