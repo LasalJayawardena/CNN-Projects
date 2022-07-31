@@ -42,6 +42,7 @@
 |  0005 | <a href="/Image_Colorization/">Image Colorization</a>| Image Colorization from black and white photos to colored photos.|
 |  0006 | <a href="/Audio_Classification/">Audio Classification</a>| Classfying with the Gtzan Dataset.|
 |  0007 | <a href="/Facial_Key_points_Detection/">Facial Key Points Detection</a>| Building a system to identify key facial landmarks.|
+|  0008 | <a href="/OCR_Recognition/">Facial Key Points Detection</a>| Optical Character Recognition using Pytorch|
 
 
 
