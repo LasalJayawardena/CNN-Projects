@@ -1,1 +1,2 @@
-
+Aerial images of swimming pools:
+https://www.kaggle.com/datasets/alexj21/swimming-pool-512x512
