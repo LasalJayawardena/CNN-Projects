@@ -16,5 +16,6 @@ https://www.kaggle.com/datasets/greatgamedota/timm-package
 timm_efficientdet_pytorch:
 https://www.kaggle.com/datasets/shonenkov/timm-efficientdet-pytorch
 
-
+Weighted-Boxes-Fusion:
+https://www.kaggle.com/datasets/shonenkov/weightedboxesfusion
 
