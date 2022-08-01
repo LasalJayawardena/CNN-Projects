@@ -4,3 +4,5 @@ https://www.kaggle.com/competitions/nfl-impact-detection
 nfl-lib:
 https://www.kaggle.com/datasets/its7171/nfl-lib
 
+nfl-models:
+https://www.kaggle.com/datasets/its7171/nfl-models
