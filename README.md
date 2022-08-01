@@ -58,7 +58,7 @@
 |  0037 | <a href="/Aquarium_Dataset_Classification_with_EfficientDet/"> Aquarium Dataset Classification with EfficientDet </a>| Classification of water species using the EfficientDet Model trained on the "Aquarium Dataset".|
 |  0038 | <a href="/Crowd_Detection_With_EfficientDet/"> Crowd Detection With EfficientDet </a>| Crowd Counting/Detection using the EfficientDet Model.|
 |  0039 | <a href="/Herb_Detection_With_EfficientDet/"> Herb Detection With EfficientDet </a>| Herb Plants Detection using the EfficientDet Model.|
-
+|  0040 | <a href="/Swimming_Pool_Detection_With_EfficientDet/"> Swimming Pool Detection With EfficientDet </a>| Swimming Pool Detection on Aerial Images using the EfficientDet Model.|
 
 
 
