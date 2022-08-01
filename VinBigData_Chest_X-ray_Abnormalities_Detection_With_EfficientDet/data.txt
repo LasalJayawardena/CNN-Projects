@@ -1,1 +1,4 @@
+VinBigData Chest X-ray Abnormalities Detection Dataset:
+https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection
+
 
