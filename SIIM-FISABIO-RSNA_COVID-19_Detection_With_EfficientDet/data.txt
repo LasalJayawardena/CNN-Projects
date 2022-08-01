@@ -1,8 +1,11 @@
 SIIM-FISABIO-RSNA COVID-19 Detection Dataset:
 https://www.kaggle.com/competitions/siim-covid19-detection
 
-EfficientDet PreProcessing (Better than YOLOv5):
-https://www.kaggle.com/code/adldotori/efficientdet-preprocessing-better-than-yolov5
+pydicom_conda_helper:
+https://www.kaggle.com/code/awsaf49/pydicom-conda-helper
+
+packages:
+https://www.kaggle.com/code/adldotori/packages
 
 
 
