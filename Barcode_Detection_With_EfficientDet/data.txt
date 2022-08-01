@@ -1,1 +1,2 @@
-
+Barcode_Image Dataset:
+https://www.kaggle.com/datasets/plenoi/barcode-image
