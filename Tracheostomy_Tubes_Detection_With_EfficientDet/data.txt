@@ -13,6 +13,8 @@ https://www.kaggle.com/datasets/kaushal2896/pycocotools
 timm package:
 https://www.kaggle.com/datasets/greatgamedota/timm-package
 
+timm_efficientdet_pytorch:
+https://www.kaggle.com/datasets/shonenkov/timm-efficientdet-pytorch
 
 
 
