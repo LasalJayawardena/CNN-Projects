@@ -55,6 +55,7 @@
 |  0034 | <a href="/VinBigData_Chest_X-ray_Abnormalities_Detection_With_EfficientDet/"> VinBigData Chest X-ray Abnormalities Detection With EfficientDet </a>| Automatically localize and classify thoracic abnormalities from chest radiographs using the EfficientDet Model.|
 |  0035 | <a href="/NFL_1st_and_Future - Impact_Detection_With_EfficientDet/"> NFL 1st and Future-Impact Detection With EfficientDet </a>| Detect helmet impacts in videos of NFL plays using the EfficientDet Model.|
 |  0036 | <a href="/Oxford-IIIT_Pet_Dataset_Classification_With_EfficientDet/"> Oxford-IIIT Pet Dataset Classification With EfficientDet </a>| Classification of pets into 37 categories using the EfficientDet Model.|
+|  0037 | <a href="/Aquarium_Dataset_Classification_with_EfficientDet/"> Aquarium Dataset Classification with EfficientDet </a>| Classification of water species using the EfficientDet Model trained on the "Aquarium Dataset".|
 
 
 
