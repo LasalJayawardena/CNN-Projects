@@ -61,7 +61,7 @@
 |  0040 | <a href="/Swimming_Pool_Detection_With_EfficientDet/"> Swimming Pool Detection With EfficientDet </a>| Swimming Pool Detection on Aerial Images using the EfficientDet Model.|
 |  0041 | <a href="/Face_Mask_Detection_With_EfficientDet/"> Face Mask Detection With EfficientDet </a>| Face Mask localization and Detection using the EfficientDet Model.|
 |  0042 | <a href="/Tracheostomy_Tubes_Detection_With_EfficientDet/"> Tracheostomy Tubes Detection With EfficientDet </a>| Tracheostomy Tubes localization and Detection on X-rays using the EfficientDet Model.|
-
+|  0043 | <a href="/Barcode_Detection_With_EfficientDet/"> Barcode Detection With EfficientDet </a>| Barcode Detection using the EfficientDet Model.|
 
 
 
