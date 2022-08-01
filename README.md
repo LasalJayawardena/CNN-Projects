@@ -50,4 +50,5 @@
 |  0029 | <a href="/Virtual_Keyboard/"> Virtual Keyboard </a>| Virtual Keyboard that can be used with a live stream.|
 |  0030 | <a href="/Number_Plate_Detection_With_EfficientDet/"> Number Plate Detection with EfficientDet </a>| Number Plate Recognition on the CCPD (Chinese City Parking Dataset, ECCV) using the EfficientDet Model.|
 |  0031 | <a href="/Wheat_Detection_With_EfficientDet/"> Wheat Detection with EfficientDet </a>| Wheat Grain Detection using the EfficientDet Model.|
+|  0032 | <a href="/COTS_Detection_With_EfficientDet/"> COTS Detection with EfficientDet </a>| Crown-of-Thorns Starfish (COTS) Detection in the Great Barrier Reef using EfficientDet.|
 
