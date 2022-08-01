@@ -53,5 +53,6 @@
 |  0032 | <a href="/COTS_Detection_With_EfficientDet/"> COTS Detection with EfficientDet </a>| Crown-of-Thorns Starfish (COTS) Detection in the Great Barrier Reef using EfficientDet.|
 |  0033 | <a href="/SIIM-FISABIO-RSNA_COVID-19_Detection_With_EfficientDet/"> SIIM-FISABIO-RSNA COVID-19 Detection With EfficientDet </a>| Identifying and localizing COVID-19 abnormalities on chest radiographs using the EfficientDet Model.|
 |  0034 | <a href="/VinBigData_Chest_X-ray_Abnormalities_Detection_With_EfficientDet/"> VinBigData Chest X-ray Abnormalities Detection With EfficientDet </a>| Automatically localize and classify thoracic abnormalities from chest radiographs using the EfficientDet Model.|
+|  0035 | <a href="/NFL_1st_and_Future-Impact_Detection_With_EfficientDet/"> NFL 1st and Future-Impact Detection With EfficientDet </a>| Detect helmet impacts in videos of NFL plays using the EfficientDet Model.|
 
 
