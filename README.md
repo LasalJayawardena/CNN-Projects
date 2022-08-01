@@ -59,6 +59,7 @@
 |  0038 | <a href="/Crowd_Detection_With_EfficientDet/"> Crowd Detection With EfficientDet </a>| Crowd Counting/Detection using the EfficientDet Model.|
 |  0039 | <a href="/Herb_Detection_With_EfficientDet/"> Herb Detection With EfficientDet </a>| Herb Plants Detection using the EfficientDet Model.|
 |  0040 | <a href="/Swimming_Pool_Detection_With_EfficientDet/"> Swimming Pool Detection With EfficientDet </a>| Swimming Pool Detection on Aerial Images using the EfficientDet Model.|
+|  0041 | <a href="/Face_Mask_Detection_With_EfficientDet/"> Face Mask Detection With EfficientDet </a>| Face Mask localization and Detection using the EfficientDet Model.|
 
 
 
