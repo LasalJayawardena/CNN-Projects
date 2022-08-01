@@ -1,1 +1,5 @@
+The Oxford-IIIT Pet Dataset:
+https://www.kaggle.com/datasets/devdgohil/the-oxfordiiit-pet-dataset
 
+automl - efficientdet - efficientnetv2:
+https://www.kaggle.com/datasets/dschettler8845/automl-efficientdet-efficientnetv2
