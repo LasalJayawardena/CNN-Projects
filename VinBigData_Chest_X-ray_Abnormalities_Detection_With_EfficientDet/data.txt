@@ -1,4 +1,5 @@
 VinBigData Chest X-ray Abnormalities Detection Dataset:
 https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection
 
-
+timm_efficientdet_pytorch:
+https://www.kaggle.com/datasets/shonenkov/timm-efficientdet-pytorch
