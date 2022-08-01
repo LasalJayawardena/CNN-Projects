@@ -52,3 +52,6 @@
 |  0031 | <a href="/Wheat_Detection_With_EfficientDet/"> Wheat Detection with EfficientDet </a>| Wheat Grain Detection using the EfficientDet Model.|
 |  0032 | <a href="/COTS_Detection_With_EfficientDet/"> COTS Detection with EfficientDet </a>| Crown-of-Thorns Starfish (COTS) Detection in the Great Barrier Reef using EfficientDet.|
 |  0033 | <a href="/SIIM-FISABIO-RSNA_COVID-19_Detection_With_EfficientDet/"> SIIM-FISABIO-RSNA COVID-19 Detection With EfficientDet </a>| Identifying and localizing COVID-19 abnormalities on chest radiographs using the EfficientDet Model.|
+|  0034 | <a href="/VinBigData_Chest_X-ray_Abnormalities_Detection_With_EfficientDet/"> VinBigData Chest X-ray Abnormalities Detection With EfficientDet </a>| Automatically localize and classify thoracic abnormalities from chest radiographs using the EfficientDet Model.|
+
+
