@@ -3,3 +3,9 @@ https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detectio
 
 timm_efficientdet_pytorch:
 https://www.kaggle.com/datasets/shonenkov/timm-efficientdet-pytorch
+
+omegaconf:
+https://www.kaggle.com/datasets/shonenkov/omegaconf
+
+Weighted-Boxes-Fusion:
+https://www.kaggle.com/datasets/shonenkov/weightedboxesfusion
