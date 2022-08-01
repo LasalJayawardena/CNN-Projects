@@ -7,4 +7,6 @@ https://www.kaggle.com/datasets/mathurinache/efficientdet
 omegaconf:
 https://www.kaggle.com/datasets/shonenkov/omegaconf
 
+pycocotools:
+https://www.kaggle.com/datasets/kaushal2896/pycocotools
 
