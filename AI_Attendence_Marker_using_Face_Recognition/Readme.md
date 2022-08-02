@@ -1,1 +1,1 @@
-## Attendance marking system with a live feed
+## Attendance marking system with a Live feed
