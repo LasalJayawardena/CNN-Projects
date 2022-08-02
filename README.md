@@ -24,7 +24,7 @@
 |  0003 | <a href="/CNN_Hand_Gesture/">CNN Hand Gesture</a>| Building a Hand Gesture Recognition for American Sign Language.|
 |  0004 | <a href="/Facial_Expression_Recognition/">Facial Expression Recognition</a>| Facial Expression Recognition on the FER Dataset.|
 |  0005 | <a href="/Image_Colorization/">Image Colorization</a>| Image Colorization from black and white photos to colored photos.|
-|  0006 | <a href="/Audio_Classification/">Audio Classification</a>| Classfying with the Gtzan Dataset.|
+|  0006 | <a href="/Audio_Classification/">Audio Classification</a>| Audio Classfication with the Gtzan Dataset.|
 |  0007 | <a href="/Facial_Key_points_Detection/">Facial Key Points Detection</a>| Building a system to identify key facial landmarks.|
 |  0008 | <a href="/OCR_Recognition/">OCR Recognition</a>| Optical Character Recognition using Pytorch|
 |  0009 | <a href="/Scene_Classification/">Scene Classification</a>| System built where scenes from photographs are categorically classified.|
