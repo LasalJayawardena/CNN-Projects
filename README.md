@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 </div>
 
+## Platforms
+
+<div style="display:flex; margin: auto;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+
 ## Projects
 
 | ID | Project | Description |
