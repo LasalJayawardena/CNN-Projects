@@ -33,7 +33,7 @@
 |  0012 | <a href="/Real_Time_Color_Tracker/">Real Time Color Tracker</a>| Detect and Track color from the HSV scale from a live video feed.|
 |  0013 | <a href="/Object_Detection_with_HaarCascade/">Object Detection with HaarCascade</a>| Detecting Faces with the HaarCascade Filter.|
 |  0014 | <a href="/Hand_Tracking_Volume_Adjuster/">Hand Tracking Volume Adjuster</a>| Program that allows to adjust the speaker volume of your Laptop or Desktop using your hand movement.|
-|  0015 | <a href="/AI_Attendence_Marker/">AI Attendence Marker</a>| Attendance marking system with a live feed.|
+|  0015 | <a href="/AI_Attendence_Marker_using_Face_Recognition/">AI Attendence Marker using Face Recognition</a>| Attendance marking system with a live feed.|
 |  0016 | <a href="/AI_Curl_Trainer/">AI Curl Trainer</a>| Curl Trainer built using a pose detector.|
 |  0017 | <a href="/Angle_Finder/">Angle Finder</a>| Angle Finder from a live feed.|
 |  0018 | <a href="/Annotating_Images_with_Object_Detection_API/"> Annotating Images with Object Detection API</a>| Annotating Images and Videos using multiple Object Detection models like SSDs, RCNNs, RFCNNs .|
