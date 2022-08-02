@@ -63,7 +63,6 @@
 |  0042 | <a href="/Tracheostomy_Tubes_Detection_With_EfficientDet/"> Tracheostomy Tubes Detection With EfficientDet </a>| Tracheostomy Tubes localization and Detection on X-rays using the EfficientDet Model.|
 |  0043 | <a href="/Barcode_Detection_With_EfficientDet/"> Barcode Detection With EfficientDet </a>| Barcode Detection using the EfficientDet Model.|
 |  0044 | <a href="/Gotukola_Detection_With_EfficientDet/"> Gotukola Detection With EfficientDet </a>| Detecting and Localizing Gotukola leaves using the EfficientDet Model.|
-
-
+|  0045 | <a href="/Helminths_and_Schistosoma_Mansoni_Detection_With_EfficientDet/"> Helminths and Schistosoma Mansoni Detection With EfficientDet </a>| Detecting and Localizing different species, such as roundworms, whipworms, and hookworms, which causes Soil-transmitted Helminths and Schistosoma Mansoni infections using the EfficientDet Model.|
 
 
