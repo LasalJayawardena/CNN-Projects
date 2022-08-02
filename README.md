@@ -19,6 +19,8 @@
 
 <div style="display:flex; margin: auto;">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  
 </div>
 
 ## Projects
