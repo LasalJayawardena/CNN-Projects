@@ -40,7 +40,7 @@
 |  0019 | <a href="/Bar_and_QR_Code_Detection/">Bar and QR Code Detection</a>| Detecting Bar Codes and QR Codes from a live video feed and image.|
 |  0020 | <a href="/Document_Scanner/">Document Scanner</a>| Document Scanner from a live feed.|
 |  0021 | <a href="/Flickr8_Image_Caption_Generation/">Flickr8 Image Caption Generation</a>| Image Captioner built using Flickr 8k Dataset.|
-|  0022 | <a href="/Space Radio Signals Classification/">Space Radio Signals Classification</a>| Space Radio Classification on SETI Data.|
+|  0022 | <a href="/Space_Radio_Signals_Classification/">Space Radio Signals Classification</a>| Space Radio Classification on SETI Data.|
 |  0023 | <a href="/Cell_Instance_Segmentation/">Cell Instance Segmentation</a>| Instance Segmentation on the Sartorius Cell Instance Segmentation Dataset.|
 |  0024 | <a href="/Google_Street_View_House_Number_Recognition/">Google Street View House Number Recognition</a>| House Number Recogition on the The Street View House Numbers (SVHN) Dataset.|
 |  0025 | <a href="/Object_Dimension_Measurer/">Object Dimension Measurer</a>| Measure Object Dimensions from a live feed.|
