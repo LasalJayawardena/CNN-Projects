@@ -45,7 +45,7 @@
 |  0015 | <a href="/AI_Attendence_Marker_using_Face_Recognition/">AI Attendence Marker using Face Recognition</a>| Attendance marking system with a live feed.|
 |  0016 | <a href="/AI_Curl_Trainer/">AI Curl Trainer</a>| Curl Trainer built using a pose detector.|
 |  0017 | <a href="/Angle_Finder/">Angle Finder</a>| Angle Finder from a live feed.|
-|  0018 | <a href="/Annotating_Images_with_Object_Detection_API/"> Annotating Images with Object Detection API</a>| Annotating Images and Videos using multiple Object Detection models like SSDs, RCNNs, RFCNNs .|
+|  0018 | <a href="/Annotating_Images_with_Object_Detection_API/"> Annotating Images with Object Detection API</a>| Annotating Images and Videos using multiple Object Detection models like SSDs, RCNNs, RFCNNs.|
 |  0019 | <a href="/Bar_and_QR_Code_Detection/">Bar and QR Code Detection</a>| Detecting Bar Codes and QR Codes from a live video feed and image.|
 |  0020 | <a href="/Document_Scanner/">Document Scanner</a>| Document Scanner from a live feed.|
 |  0021 | <a href="/Flickr8_Image_Caption_Generation/">Flickr8 Image Caption Generation</a>| Image Captioner built using Flickr 8k Dataset.|
