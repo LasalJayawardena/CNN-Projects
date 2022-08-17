@@ -74,3 +74,12 @@
 |  0044 | <a href="/Gotukola_Detection_With_EfficientDet/"> Gotukola Detection With EfficientDet </a>| Detecting and Localizing Gotukola leaves using the EfficientDet Model.|
 |  0045 | <a href="/Helminths_and_Schistosoma_Mansoni_Detection_With_EfficientDet/"> Helminths and Schistosoma Mansoni Detection With EfficientDet </a>| Detecting and Localizing different species, such as roundworms, whipworms, and hookworms, which causes Soil-transmitted Helminths and Schistosoma Mansoni infections using the EfficientDet Model.|
 |  0046 | <a href="/Fire_Detection_With_EfficientDet/"> Fire Detection With EfficientDet </a>| Fire and Smoke Detection using the EfficientDet Model.|
+
+
+
+
+## Research Papers
+
+| Paper ID | Title | Description |
+| :---: | :---: | :---: |
+| 0001 | <a href="https://arxiv.org/pdf/1911.09070.pdf"> EfficientDet :Scalable and Efficient Object Detection </a> |EfficientDet is a type of object detection model, which utilizes several optimization and backbone tweaks, such as the use of a BiFPN, and a compound scaling method that uniformly scales the resolution,depth and width for all backbones, feature networks and box/class prediction networks at the same time. |
